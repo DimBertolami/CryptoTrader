@@ -35,6 +35,7 @@ running the entire project:
   in the webroot you will see 2 .sh scripts launch_be.sh for the backend and launch_fe.sh for the frontend.
 
 frontend:
+![image](https://github.com/user-attachments/assets/4f27dfb7-331a-4efc-a08a-ebbceaba08c7)
 ![image](https://github.com/user-attachments/assets/6e5a517e-f34f-4b20-825f-cdcac3342255)
 
 backend:
